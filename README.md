@@ -1,6 +1,6 @@
 # QRKot Google Sheets
  
-![workflows](https://github.com/ThatCoderMan/QRkot_spreadsheets/actions/workflows/deploy.yml/badge.svg)
+![workflows](https://github.com/ThatCoderMan/QRkot_spreadsheets/actions/workflows/workflow.yml/badge.svg)
 
 <details>
 <summary>Project stack</summary>
